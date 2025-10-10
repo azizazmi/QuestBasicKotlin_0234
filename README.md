@@ -16,5 +16,4 @@
 | Conditional If | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b3fdeaf-3f5b-4a1e-a9a5-38075aca0003" /> |
 | Conditional When contoh 1 | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fbc433d-81a8-44f3-a77c-8b1561a501eb" /> |
 | Conditional When contoh 2 | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdbf18c8-d450-4b7a-add9-90b3a3a8d952" /> |
-
-
+| Looping For | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45ee536f-7446-4c72-9fb8-cede86439b92" /> |
