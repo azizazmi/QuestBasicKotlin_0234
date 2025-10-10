@@ -26,6 +26,7 @@
 | Access Properties from an Instance | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01e58ae6-0e5f-4c78-bc21-b2fbe6f1b239" /> |
 | Member Functions | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f7fc70c-1667-4c04-ad2c-521d909e766a" /> |
 | Data Classes | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1417bf4e-8349-47e9-8a7f-5bb023223889" /> |
+| Compare Instances | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17d3b05c-5e55-47bd-86ae-78791c3347ed" /> |
 
 
 
