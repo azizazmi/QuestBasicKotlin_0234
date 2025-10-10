@@ -20,3 +20,4 @@
 | Functions | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5962e82-6c51-4715-95aa-b9a71b8f404d" /> |
 | Named Arguments | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84ae697f-ba8b-4ca7-87a3-affc9ee2ebb0" /> |
 | Default Parameter Values | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5e7c276-2175-44fb-9795-142a8725d79e" /> |
+| Functions Without Return | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b6bbcde-0310-4d88-bb7e-ec641362aa99" /> |
