@@ -22,3 +22,4 @@
 | Default Parameter Values | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5e7c276-2175-44fb-9795-142a8725d79e" /> |
 | Functions Without Return | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b6bbcde-0310-4d88-bb7e-ec641362aa99" /> |
 | Lambda Expression | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a664fffb-a80a-4e6c-ba24-2cf0565c24a1" /> |
+| Create Instance | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0e23279-85b5-47df-b74b-af241d312f5a" /> |
