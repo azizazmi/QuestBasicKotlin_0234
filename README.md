@@ -18,3 +18,4 @@
 | Conditional When contoh 2 | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdbf18c8-d450-4b7a-add9-90b3a3a8d952" /> |
 | Looping For | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45ee536f-7446-4c72-9fb8-cede86439b92" /> |
 | Functions | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5962e82-6c51-4715-95aa-b9a71b8f404d" /> |
+| Named Arguments | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84ae697f-ba8b-4ca7-87a3-affc9ee2ebb0" /> |
