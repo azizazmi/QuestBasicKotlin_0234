@@ -24,3 +24,4 @@
 | Lambda Expression | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a664fffb-a80a-4e6c-ba24-2cf0565c24a1" /> |
 | Create Instance | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0e23279-85b5-47df-b74b-af241d312f5a" /> |
 | Access Properties from an Instance | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01e58ae6-0e5f-4c78-bc21-b2fbe6f1b239" /> |
+| Member Functions | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f7fc70c-1667-4c04-ad2c-521d909e766a" /> |
