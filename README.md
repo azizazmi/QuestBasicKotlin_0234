@@ -28,6 +28,7 @@
 | Data Classes | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1417bf4e-8349-47e9-8a7f-5bb023223889" /> |
 | Compare Instances | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17d3b05c-5e55-47bd-86ae-78791c3347ed" /> |
 | Copy Instances | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a485868e-f171-40ca-b732-ef98b4e12e8c" /> |
+| Nullable Types | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc872961-040a-421d-90df-eacc6db442de" /> |
 
 
 
